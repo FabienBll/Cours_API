@@ -27,5 +27,6 @@ source venv/bin/activate
 
 # Installation des dépendances nécessaires
 pip install fastapi uvicorn
+```
 
 Lien Postman des tests effectués : https://fabienbll-6871878.postman.co/workspace/Fabien-BALLEREAU's-Workspace~356f19cf-779d-4c41-8c38-3266ded02599/collection/51921490-988145bf-3c84-4aa8-8f7b-59c0ddfb54d9?action=share&creator=51921490
