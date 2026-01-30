@@ -7,14 +7,13 @@ Une API RESTful légère construite avec **FastAPI**. Ce projet permet de gérer
 - **Créer** un nouveau serveur (avec validation d'ID unique).
 - **Modifier** les informations d'un serveur existant (RAM, IP, nom, etc.).
 - **Supprimer** un serveur via son identifiant.
-- **Auto-documentation** via Swagger UI.
 
 ---
 
 ## 🛠️ Installation et Mise en place
 
 ### 1. Prérequis
-Système Linux avec **Python 3.7+** et **pip** installés.
+**Python 3.7+** et **pip** installés.
 
 ### 2. Configuration de l'environnement
 Ouvrez un terminal dans le dossier du projet :
